@@ -1,5 +1,5 @@
 # Chess-playing-robot-arm
-robot arm integrated with chess playing capability
+chess playing capability integrated into robot arm 
 Demo: https://youtu.be/D9IFXNhLfIU
 
 # Main Components Used in this project
